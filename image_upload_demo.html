@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+ <title>Word2Image</title>
+ <link rel="stylesheet" type="text/css" href="style/mystyle.css">
+  <script src="scripts/javascript/myScript.js"></script> 
+ </head>
+
+<body>
+
+  <a href="index.html"> <h2>Word2Image </h2> </a>   
+<p>The video below will demonstrate how to find and save an image file and then upload it on this website. </p>
+
+ <video id="video_demo" width="600" controls>
+  <source src="media/image_upload_demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
+
+<script> 
+var vid = document.getElementById("video_demo");
+vid.onended = function() {
+  close();
+};
+</script>
+
+<p> </p>
+ <button onclick="window.close()">Back to image uploading</button>
+
+</body>
+</html>

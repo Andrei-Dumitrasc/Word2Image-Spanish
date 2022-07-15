@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+ <title>Word2Image</title>
+ <link rel="stylesheet" type="text/css" href="style/mystyle.css">
+  <script src="scripts/javascript/myScript.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <script src="https://unpkg.com/xregexp/xregexp-all.js"></script>
+ </head>
+
+<body >
+
+  <a href="index.html"> <h2>Word2Image </h2> </a>   
+<p>The form below will help you define which words are to be replaced, and by which image.</p>
+
+<p>Please fill the field below with one valid word (i.e. no numbers, symbols etc), then click on the button <b>Confirm word</b>. 
+<br />Related forms (e.g. plural) will be then automatically generated. From this list select those that you wish to replace. To select more than one, hold the CTRL key down until you are done with clicking on the words.  
+<br />Then, to the right, upload the image by which you wish to replace the given words. </p>
+
+<p>
+<br /> You can get images from the Internet by right-clicking on them and choosing the option Save Image As...
+<br /> There, you can choose a name to help you remember this image. If the file type is .gif please use a different image. Save this file in an easily 
+accesible folder.
+<br /> Then, click the <b>Browse</b> button on this page to choose this file and then on the <b>Upload image and confirm words</b> button. 
+</p>
+
+ <button  >
+ <a href="image_upload_demo.html" target="_blank">Video demo</a> 
+ </button>
+  <br />
+<form name="mainForm" action="scripts/php/image_uploader.php" class="row" enctype="multipart/form-data" method="post">
+<fieldset class="formsection">
+<legend> Word </legend>
+  <input type="text" name="word" required="required" placeholder="e.g. cat" autofocus="autofocus" class="inputline"   />
+   <button onclick="getSpanishForms()" form="">Confirm word</button>
+   <br />
+	Other forms 
+	<br />
+  <select id="other_forms" name="other_forms" size="7" required="required" multiple="multiple" > </select>
+  <input type="text" name="all_words"  class="inputline" hidden="hidden" />
+	<br />   
+  </fieldset>
+  
+<fieldset class="formsection">
+  <legend> Image upload</legend>
+    <!-- <input type="radio" name="imagesource" value="url" id="imageurl" checked="checked" /> -->
+	<!-- <label for="imageurl">  From the Web </label>	<br />  -->
+	  <!-- Address: <input type="url" name="imageaddress" size="30" placeholder="e.g. www.imagesite.com/cat.png" class="inputline" /> <br /> -->
+
+	  <!-- <input type="radio" name="imagesource" value="upload" id="imagelocal"/>  -->
+	  	<label for="imagelocal">  </label>	<br /> 
+  Select an image: <input type="file" name="imagelocation" required="required" accept=".jpg,.jpeg,.bmp,.png,.gif,.tif,.tiff">
+  <br />
+		<button onclick="submitImageForm()" style="float: right;">Upload image and confirm words</button>
+  <br />
+      <!-- <input type="submit" value="Upload image and confirm words" style="float: right;"> -->
+
+</fieldset>	  
+
+ <!-- <fieldset class="formsection"> -->
+ <!-- <legend> Confirmation</legend> -->
+<!-- <img src="pic_trulli.jpg" alt="Image for replacement">  -->
+<!-- <br />  -->
+
+<!-- </fieldset>	 -->
+
+
+</form>
+<br />  
+
+<p>If you have changed your mind about the text to be edited, you can return to the previous page by clicking on the link below.</p>
+ <button onclick="document.location = 'text_upload.html'">Back to text upload</button>
+
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"rojos": "mpl", "roja": "f", "rojas": "fpl", "rojo": "nm, nf"}

@@ -1,0 +1,56 @@
+input.inputline{
+	margin: 5px;
+	font-size: 15px;
+}
+button, input[type="file"], input[type="submit"]{
+	margin: 5px;
+	font-size: 15px;
+}
+form.row{
+	display: flex;
+}
+form {
+	background-color:#e3efef;
+/*  cbebed*/
+}
+fieldset.formsection{
+	flex: 30%;
+	/* padding: 10px; */
+	border: 8px ridge #c9701e;
+	border-radius: 5px;
+	font-size: 17px;
+}
+#front {
+	border: 8px ridge #c9701e;
+	border-radius: 5px;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+img {
+	height: 190px;
+}
+body {
+	font-size: 19px;
+	background-color:#f9e2bb;
+	/*   fcde97*/
+}
+h2:hover {
+	color: #6ebf22;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+
+h2 {
+	text-align: center;
+	color: #dd790d;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	margin: 40px
+	/* text-shadow: 2px 2px 5px #c9701e; */
+
+}

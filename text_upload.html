@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+ <title>Word2Image</title>
+ <link rel="stylesheet" type="text/css" href="style/mystyle.css">
+  <script src="scripts/javascript/myScript.js"></script> 
+ </head>
+
+<body onload="initialize()">
+
+  <a href="index.html"> <h2>Word2Image </h2> </a>   
+<p>Please upload the file containing the plain, unformatted text to be used as input. The file should be saved in the .txt format. </p>
+
+<p>
+<br /> To this end, put your text in Notepad, then choose File -> Save As... 
+<br /> There, give a name to your file and make sure the type is Text Documents (*.txt). Save this file in an easily accesible folder.
+<br /> Then, click the <b>Browse</b> button on this page to choose this file and then on the <b>Upload text</b> button.
+<br />
+</p>
+
+ <!-- <button onclick="document.location = 'text_upload_demo.html'">Video demo</button> -->
+ <button  >
+ <a href="text_upload_demo.html" target="_blank">Video demo</a> 
+ </button>
+ <p></p>
+ <form action="scripts/php/text_uploader.php" method="post" enctype="multipart/form-data">
+ <fieldset class="formsection">
+ <legend> Text information</legend>  
+  <input type="file" name="uploaded_text" required="required" accept=".txt">
+  <input type="submit" value="Upload text">
+  </fieldset>
+</form>  
+ 
+
+</body>
+</html>

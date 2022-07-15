@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+ <title>Word2Image</title>
+ <link rel="stylesheet" type="text/css" href="style/mystyle.css">
+  <script src="scripts/javascript/myScript.js"></script> 
+ </head>
+
+<body ">
+
+  <a href="index.html"> <h2>Word2Image </h2> </a>   
+<p>Please upload your files. </p>
+
+
+ <form action="scripts/php/script_uploader.php" method="post" enctype="multipart/form-data">
+ <fieldset class="formsection">
+ <legend> Script information</legend>  
+  <input type="file" name="uploaded_script" required="required" >
+  <input type="submit" value="Upload File">
+  </fieldset>
+</form>  
+ 
+
+</body>
+</html>

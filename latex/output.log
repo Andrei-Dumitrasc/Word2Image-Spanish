@@ -1,0 +1,751 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350 64-bit) (preloaded format=xelatex 2020.1.23)  4 JUL 2020 15:57
+entering extended mode
+**./output.tex
+(output.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\scrartcl.cls
+Document Class: scrartcl 2019/12/23 v3.28 KOMA-Script document class (article)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\scrkbase.sty
+Package: scrkbase 2019/12/23 v3.28 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\scrbase.sty
+Package: scrbase 2019/12/23 v3.28 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\scrlfile.sty
+Package: scrlfile 2019/12/23 v3.28 KOMA-Script package (loading files)
+)))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\tocbasic.sty
+Package: tocbasic 2019/12/23 v3.28 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Package scrartcl Info: You've used standard option `12pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=12pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2211.
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\scrsize12pt.clo
+File: scrsize12pt.clo 2019/12/23 v3.28 KOMA-Script font size class option (12pt
+)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+koma-script\typearea.sty
+Package: typearea 2019/12/23 v3.28 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1718.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\scr@dte@section@maxnumwidth=\skip47
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4722.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4722.
+\scr@dte@part@maxnumwidth=\skip48
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4730.
+\scr@dte@subsection@maxnumwidth=\skip49
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4740.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4740.
+\scr@dte@subsubsection@maxnumwidth=\skip50
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4750.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4750.
+\scr@dte@paragraph@maxnumwidth=\skip51
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4760.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4760.
+\scr@dte@subparagraph@maxnumwidth=\skip52
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4770.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4770.
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\c@pti@nb@sid@b@x=\box27
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6001.
+\scr@dte@figure@maxnumwidth=\skip55
+\c@figure=\count86
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6013.
+\scr@dte@table@maxnumwidth=\skip56
+\c@table=\count87
+Class scrartcl Info: Redefining `\numberline' on input line 6177.
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg")) ("C:\Prog
+ram Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip57
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen111
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks19
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks20
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks21
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+caption\caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+caption\caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@tempdima=\dimen123
+\caption@indent=\dimen124
+\caption@parindent=\dimen125
+\caption@hangindent=\dimen126
+Package caption Info: KOMA-Script document class detected.
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count103
+\c@continuedfloat=\count104
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks23
+\float@box=\box30
+\@float@everytoks=\toks24
+\@floatcapt=\box31
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def"
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count106
+\multirow@dima=\skip61
+\bigstrutjot=\dimen129
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count107
+\mult@box=\box32
+\multicol@leftmargin=\dimen130
+\c@unbalance=\count108
+\c@collectmore=\count109
+\doublecol@number=\count110
+\multicoltolerance=\count111
+\multicolpretolerance=\count112
+\full@width=\dimen131
+\page@free=\dimen132
+\premulticols=\dimen133
+\postmulticols=\dimen134
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box33
+\last@line=\box34
+\maxbalancingoverflow=\dimen135
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count113
+\c@finalcolumnbadness=\count114
+\last@try=\dimen136
+\multicolovershoot=\dimen137
+\multicolundershoot=\dimen138
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+\mc@col@check@num=\count115
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+caption\subcaption.sty
+Package: subcaption 2020/01/03 v1.3b Sub-captions (AR)
+\c@subfigure=\count116
+\c@subtable=\count117
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+wrapfig\wrapfig.sty
+\wrapoverhang=\dimen139
+\WF@size=\dimen140
+\c@WF@wrappedlines=\count118
+\WF@box=\box58
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\frontendlayer\tikz.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\basiclayer\pgf.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\utilities\pgfrcs.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfutil-common-lists.tex))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box59
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfrcs.code.tex
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\basiclayer\pgfcore.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\systemlayer\pgfsys.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks29
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count119
+\c@pgf@countb=\count120
+\c@pgf@countc=\count121
+\c@pgf@countd=\count122
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+\pgf@sys@id@count=\count123
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsys-xetex.def
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count124
+)))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count125
+\pgfsyssoftpath@bigbuffer@items=\count126
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmath.code.tex
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathcalc.code.tex
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathutil.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count127
+\pgfmath@box=\box60
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.code.tex
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.basic.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.trigonometric.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.random.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.comparison.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.base.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.round.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.misc.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfunctions.integerarithmetics.code.tex)))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count128
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfint.code.tex)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count129
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen172
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen176
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count130
+\pgf@shadingcount=\count131
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box64
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box65
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+)
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\utilities\pgffor.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\utilities\pgfkeys.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgfkeys.code.tex))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\latex\
+pgf\math\pgfmath.sty
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmath.code.tex))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\utilities\pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\frontendlayer\tikz\tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count132
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count133
+\tikznumberofchildren=\count134
+\tikznumberofcurrentchild=\count135
+\tikz@fig@count=\count136
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count137
+\pgfmatrixcurrentcolumn=\count138
+\pgf@matrix@numberofcolumns=\count139
+)
+\tikz@expandcount=\count140
+
+(C:\Windows\system32\config\systemprofile\AppData\Roaming\MiKTeX\2.9\tex\generi
+c\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (output.aux)
+\openout1 = `output.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+Package scrbase Info: activating english \contentsname on input line 18.
+Package scrbase Info: activating english \listfigurename on input line 18.
+Package scrbase Info: activating english \listtablename on input line 18.
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-55.23949pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=49.79233pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ABD: EveryShipout initializing macros
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" >
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" >
+File: ../uploads/phpC945.png Graphic file (type QTm)
+<use  "../uploads/phpC945.png" >
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" >
+File: ../uploads/phpC945.png Graphic file (type QTm)
+<use  "../uploads/phpC945.png" >
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" >
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" >
+File: ../uploads/phpBA95.png Graphic file (type QTm)
+<use  "../uploads/phpBA95.png" > [1
+
+] [2] (output.aux) ) 
+Here is how much of TeX's memory you used:
+ 16095 strings out of 427834
+ 323667 string characters out of 3152470
+ 488591 words of memory out of 3000000
+ 19843 multiletter control sequences out of 15000+200000
+ 5931 words of font info for 24 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 64i,8n,81p,10162b,579s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on output.pdf (2 pages).

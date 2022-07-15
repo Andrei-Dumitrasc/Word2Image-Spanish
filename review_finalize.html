@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+ <title>Word2Image</title>
+ <link rel="stylesheet" type="text/css" href="style/mystyle.css">
+  <script src="scripts/javascript/myScript.js"></script> 
+ </head>
+
+<body onload="populateList()">
+
+  <a href="index.html"> <h2>Word2Image </h2> </a>   
+<p>Here you can review the associations between words and images before creating your document.</p>
+<p>By clicking one of the items from the list below, you can see to the right which image will replace it. If this is not what you wanted, you can delete this association by clicking the removal button under the list.</p>
+<p style="text-align:left">If you are content with the current associations, click the button on the right side, to create and download your PDF file.</p>
+
+<form id="listForm" name="listForm" action="scripts/php/finalize.php" class="row" enctype="multipart/form-data" method="post">
+
+<fieldset class="formsection">
+  <legend> List of replacements</legend>	 
+  <select name="listreplacements" size="10" onfocus="document.getElementById('removeButton').disabled=false;" 
+  onchange="previewCurrentImage()"> </select>
+	<br /> 
+  <button id="removeButton" type="button" disabled="disabled" onclick="removeFromReplacementList()"> Remove selected word from the list </button>
+  <br /> 
+  <input type="text" name="finallist" id="finallist" hidden="hidden" />
+</fieldset>	  
+
+ <fieldset class="formsection">
+ <legend> Image preview</legend>
+<img src="pic_trulli.jpg" alt="Image for replacement" id="preview">
+</fieldset>	
+
+ <fieldset class="formsection">
+ <legend> Finalize</legend>
+ <button id="finalBtn" type="button" onclick="finalize()" style="float:right"> Finalize & Create PDF </button>
+ </fieldset>	
+
+</form>
+
+<br />
+<p> If you wish to replace more words with images, click the link below. <p />
+	 <button onclick="document.location = 'image_upload.html'">Back to word-image associations</button>
+
+</body>
+</html>
